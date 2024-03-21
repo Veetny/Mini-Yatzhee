@@ -6,7 +6,7 @@ export default function Scoreboard() {
   return (
     <View style={styles.header}>
       <Text style={styles.title}>
-        Scoreboard went to the store for milk. :C
+        Scoreboard is not present.
       </Text>
     </View>
   )
